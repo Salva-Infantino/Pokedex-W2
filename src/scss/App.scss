@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+$transition: .2s;
+
+.w-35 {
+  width: 35%;
+}
+
+@import "./ColorCode.scss";
+
+.App {
+  @import "./List.scss";
+  @import "./Pokemon.scss";
+
+  .pokemon-id {
+    color: $transparent-black;
+  }
+
+  .pokemon-type {
+    background-color: $transparent-white;
+  }
+}
