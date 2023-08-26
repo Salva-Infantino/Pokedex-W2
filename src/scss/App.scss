@@ -7,21 +7,25 @@
 
 $transition: .2s;
 
+@import "./ColorCode.scss";
+@import "./Card.scss";
+@import "./Pokemon.scss";
+
+#root {
+  overflow: hidden;
+}
 .w-35 {
   width: 35%;
 }
 
-@import "./ColorCode.scss";
+.w-15 {
+  width: 15%;
+}
 
-.App {
-  @import "./List.scss";
-  @import "./Pokemon.scss";
+.pokemon-id {
+  color: $transparent-black;
+}
 
-  .pokemon-id {
-    color: $transparent-black;
-  }
-
-  .pokemon-type {
-    background-color: $transparent-white;
-  }
+.pokemon-type {
+  background-color: $transparent-white;
 }

@@ -1,37 +1,54 @@
-import Pokedex from '../doc/pokedex.json';
+import { useEffect, useState } from 'react';
+import { useMyContext } from '../utils/MyContext';
+import { Row, Col, Spinner } from 'react-bootstrap';
+import Card from './Card';
 
-const List = () => {
+const List = ({fav}) => {
 
-    const getImage = (id) => {
-        const url = 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/'
-        return url + id + '.png';
-    }
+    const { input, search, favorites, pokemonList, isLoading } = useMyContext();
+
+    const [List, setList] = useState([]);
+
+    useEffect(() => {
+        setList(pokemonList);
+    }, [pokemonList])
+
+    useEffect(() => {
+        if (input.length > 0) {
+            const filtered = pokemonList.filter(pokemon => pokemon.Name.toLowerCase().includes(input.toLowerCase()));
+            setList(filtered);
+        } else {
+            setList(pokemonList);
+        }
+    }, [input, pokemonList])
+
+    useEffect(() => {
+        !search && setList(pokemonList);
+    }, [search, pokemonList])
 
     return (
-        <div className='row'>
+        <Row>
             {
-                Pokedex.map(pokemon => {
-                    return <div key={pokemon.Id} className='col-6'>
-                        <a href={`/${pokemon.Id}`} className={`mb-3 rounded-4 d-block text-black position-relative overflow-hidden pokemonCard type-${pokemon.Types[0]}`}>
-                            <div className='cardContent p-3'>
-                                <div>
-                                    <span className='d-block fw-light text-end pokemon-id'>#{pokemon.Id}</span>
-                                    <h2>{pokemon.Name}</h2>
-                                </div>
-                                <div className='d-inline-flex flex-column'>
-                                    {
-                                        pokemon.Types.map(type => {
-                                            return <small key={pokemon.Id+type} className='badge rounded-pill m-1 pokemon-type'>{type}</small>
-                                        })
-                                    }
-                                </div>
-                                <img src={getImage(pokemon.Id)} alt={pokemon.Name} className='position-absolute' />
-                            </div>
-                        </a>
-                    </div>
+                isLoading ? <div className='d-flex justify-content-center align-items-center'><Spinner animation="border" variant="secondary" /></div> :
+                fav ?
+                    favorites.length === 0 ? <p className='text-secondary text-center'>No favorites</p> :
+                    List.map(pokemon => {
+                        let item;
+                        if (favorites.includes(pokemon.Id)) {
+                        item =  <Col key={pokemon.Id} xs={12} className='mb-3'>
+                            <Card pokemon={pokemon} />
+                        </Col>
+                        }
+                        return item;
+                    }) : 
+                List.length === 0 ? <p className='text-secondary text-center'>No result</p> :
+                List.map(pokemon => {
+                    return <Col key={pokemon.Id} xs={12} className='mb-3'>
+                        <Card pokemon={pokemon} />
+                    </Col>
                 })
             }
-        </div>
+        </Row>
     )
 }
 

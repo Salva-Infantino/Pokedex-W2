@@ -17,7 +17,7 @@
       "Sp. Def": 65,
       "Speed": 45
     },
-    "Evolution": ["Ivysaur", "Venusaur"]
+    "Evolution": ["Bulbasaur", "Ivysaur", "Venusaur"]
   },
   {
     "Id": "002",
@@ -37,7 +37,7 @@
       "Sp. Def": 80,
       "Speed": 60
     },
-    "Evolution": ["Venusaur"]
+    "Evolution": ["Bulbasaur", "Ivysaur", "Venusaur"]
   },
   {
     "Id": "003",
@@ -57,7 +57,7 @@
       "Sp. Def": 100,
       "Speed": 80
     },
-    "Evolution": []
+    "Evolution": ["Bulbasaur", "Ivysaur", "Venusaur"]
   },
   {
     "Id": "004",
@@ -77,7 +77,7 @@
       "Sp. Def": 50,
       "Speed": 65
     },
-    "Evolution": ["Charmeleon", "Charizard"]
+    "Evolution": ["Charmander", "Charmeleon", "Charizard"]
   },
   {
     "Id": "005",
@@ -97,7 +97,7 @@
       "Sp. Def": 65,
       "Speed": 80
     },
-    "Evolution": ["Charizard"]
+    "Evolution": ["Charmander", "Charmeleon", "Charizard"]
   },
   {
     "Id": "006",
@@ -117,7 +117,7 @@
       "Sp. Def": 85,
       "Speed": 100
     },
-    "Evolution": []
+    "Evolution": ["Charmander", "Charmeleon", "Charizard"]
   },
   {
     "Id": "007",
@@ -137,7 +137,7 @@
       "Sp. Def": 64,
       "Speed": 43
     },
-    "Evolution": ["Wartortle", "Blastoise"]
+    "Evolution": ["Squirtle", "Wartortle", "Blastoise"]
   },
   {
     "Id": "008",
@@ -157,7 +157,7 @@
       "Sp. Def": 80,
       "Speed": 58
     },
-    "Evolution": ["Blastoise"]
+    "Evolution": ["Squirtle", "Wartortle", "Blastoise"]
   },
   {
     "Id": "009",
@@ -177,7 +177,7 @@
       "Sp. Def": 105,
       "Speed": 78
     },
-    "Evolution": []
+    "Evolution": ["Squirtle", "Wartortle", "Blastoise"]
   },
   {
     "Id": "010",
@@ -197,7 +197,7 @@
       "Sp. Def": 20,
       "Speed": 45
     },
-    "Evolution": ["Metapod"]
+    "Evolution": ["Caterpie", "Metapod", "Butterfree"]
   },
   {
     "Id": "011",
@@ -217,7 +217,7 @@
       "Sp. Def": 25,
       "Speed": 30
     },
-    "Evolution": ["Butterfree"]
+    "Evolution": ["Caterpie", "Metapod", "Butterfree"]
   },
   {
     "Id": "012",
@@ -237,7 +237,7 @@
       "Sp. Def": 80,
       "Speed": 70
     },
-    "Evolution": []
+    "Evolution": ["Caterpie", "Metapod", "Butterfree"]
   },
   {
     "Id": "013",
@@ -257,7 +257,7 @@
       "Sp. Def": 20,
       "Speed": 50
     },
-    "Evolution": ["Kakuna"]
+    "Evolution": ["Weedle", "Kakuna", "Beedrill"]
   },
   {
     "Id": "014",
@@ -277,7 +277,7 @@
       "Sp. Def": 25,
       "Speed": 35
     },
-    "Evolution": ["Beedrill"]
+    "Evolution": ["Weedle", "Kakuna", "Beedrill"]
   },
   {
     "Id": "015",
@@ -297,7 +297,7 @@
       "Sp. Def": 80,
       "Speed": 75
     },
-    "Evolution": []
+    "Evolution": ["Weedle", "Kakuna", "Beedrill"]
   },
   {
     "Id": "016",
@@ -317,7 +317,7 @@
       "Sp. Def": 35,
       "Speed": 56
     },
-    "Evolution": ["Pidgeotto"]
+    "Evolution": ["Pidgey", "Pidgeotto", "Pidgeot"]
   },
   {
     "Id": "017",
@@ -337,7 +337,7 @@
       "Sp. Def": 50,
       "Speed": 71
     },
-    "Evolution": ["Pidgeot"]
+    "Evolution": ["Pidgey", "Pidgeotto", "Pidgeot"]
   },
   {
     "Id": "018",
@@ -357,7 +357,7 @@
       "Sp. Def": 70,
       "Speed": 101
     },
-    "Evolution": []
+    "Evolution": ["Pidgey", "Pidgeotto", "Pidgeot"]
   },
   {
     "Id": "019",
@@ -377,7 +377,7 @@
       "Sp. Def": 35,
       "Speed": 72
     },
-    "Evolution": ["Raticate"]
+    "Evolution": ["Rattata", "Raticate"]
   },
   {
     "Id": "020",
@@ -397,7 +397,7 @@
       "Sp. Def": 70,
       "Speed": 97
     },
-    "Evolution": []
+    "Evolution": ["Rattata", "Raticate"]
   },
   {
     "Id": "021",
@@ -417,7 +417,7 @@
       "Sp. Def": 31,
       "Speed": 70
     },
-    "Evolution": ["Fearow"]
+    "Evolution": ["Spearow", "Fearow"]
   },
   {
     "Id": "022",
@@ -437,7 +437,7 @@
       "Sp. Def": 61,
       "Speed": 100
     },
-    "Evolution": []
+    "Evolution": ["Spearow", "Fearow"]
   },
   {
     "Id": "023",
@@ -457,7 +457,7 @@
       "Sp. Def": 54,
       "Speed": 55
     },
-    "Evolution": ["Arbok"]
+    "Evolution": ["Ekans", "Arbok"]
   },
   {
     "Id": "024",
@@ -477,7 +477,7 @@
       "Sp. Def": 79,
       "Speed": 80
     },
-    "Evolution": []
+    "Evolution": ["Ekans", "Arbok"]
   },
   {
     "Id": "025",
@@ -497,7 +497,7 @@
       "Sp. Def": 50,
       "Speed": 90
     },
-    "Evolution": ["Raichu"]
+    "Evolution": ["Pikachu", "Raichu"]
   },
   {
     "Id": "026",
@@ -517,7 +517,7 @@
       "Sp. Def": 80,
       "Speed": 110
     },
-    "Evolution": []
+    "Evolution": ["Pikachu", "Raichu"]
   },
   {
     "Id": "027",
@@ -537,7 +537,7 @@
       "Sp. Def": 30,
       "Speed": 40
     },
-    "Evolution": ["Sandslash"]
+    "Evolution": ["Sandshrew", "Sandslash"]
   },
   {
     "Id": "028",
@@ -557,7 +557,7 @@
       "Sp. Def": 55,
       "Speed": 65
     },
-    "Evolution": []
+    "Evolution": ["Sandshrew", "Sandslash"]
   },
   {
     "Id": "029",
@@ -577,7 +577,7 @@
       "Sp. Def": 40,
       "Speed": 41
     },
-    "Evolution": ["Nidorina"]
+    "Evolution": ["Nidoran♀", "Nidorina", "Nidoqueen"]
   },
   {
     "Id": "030",
@@ -597,7 +597,7 @@
       "Sp. Def": 55,
       "Speed": 56
     },
-    "Evolution": ["Nidoqueen"]
+    "Evolution": ["Nidoran♀", "Nidorina", "Nidoqueen"]
   },
   {
     "Id": "031",
@@ -617,7 +617,7 @@
       "Sp. Def": 85,
       "Speed": 76
     },
-    "Evolution": []
+    "Evolution": ["Nidoran♀", "Nidorina", "Nidoqueen"]
   },
   {
     "Id": "032",
@@ -637,7 +637,7 @@
       "Sp. Def": 40,
       "Speed": 50
     },
-    "Evolution": ["Nidorino"]
+    "Evolution": ["Nidoran♂", "Nidorino", "Nidoking"]
   },
   {
     "Id": "033",
@@ -657,7 +657,7 @@
       "Sp. Def": 55,
       "Speed": 65
     },
-    "Evolution": ["Nidoking"]
+    "Evolution": ["Nidoran♂", "Nidorino", "Nidoking"]
   },
   {
     "Id": "034",
@@ -677,7 +677,7 @@
       "Sp. Def": 75,
       "Speed": 85
     },
-    "Evolution": []
+    "Evolution": ["Nidoran♂", "Nidorino", "Nidoking"]
   },
   {
     "Id": "035",
@@ -697,7 +697,7 @@
       "Sp. Def": 65,
       "Speed": 35
     },
-    "Evolution": ["Clefable"]
+    "Evolution": ["Clefairy", "Clefable"]
   },
   {
     "Id": "036",
@@ -717,7 +717,7 @@
       "Sp. Def": 90,
       "Speed": 60
     },
-    "Evolution": []
+    "Evolution": ["Clefairy", "Clefable"]
   },
   {
     "Id": "037",
@@ -737,7 +737,7 @@
       "Sp. Def": 65,
       "Speed": 65
     },
-    "Evolution": ["Ninetales"]
+    "Evolution": ["Vulpix", "Ninetales"]
   },
   {
     "Id": "038",
@@ -757,7 +757,7 @@
       "Sp. Def": 100,
       "Speed": 100
     },
-    "Evolution": []
+    "Evolution": ["Vulpix", "Ninetales"]
   },
   {
     "Id": "039",
@@ -777,7 +777,7 @@
       "Sp. Def": 25,
       "Speed": 20
     },
-    "Evolution": ["Wigglytuff"]
+    "Evolution": ["Jigglypuff", "Wigglytuff"]
   },
   {
     "Id": "040",
@@ -797,7 +797,7 @@
       "Sp. Def": 50,
       "Speed": 45
     },
-    "Evolution": []
+    "Evolution": ["Jigglypuff", "Wigglytuff"]
   },
   {
     "Id": "041",
@@ -817,7 +817,7 @@
       "Sp. Def": 40,
       "Speed": 55
     },
-    "Evolution": ["Golbat"]
+    "Evolution": ["Zubat", "Golbat"]
   },
   {
     "Id": "042",
@@ -837,7 +837,7 @@
       "Sp. Def": 75,
       "Speed": 90
     },
-    "Evolution": []
+    "Evolution": ["Zubat", "Golbat"]
   },
   {
     "Id": "043",
@@ -857,7 +857,7 @@
       "Sp. Def": 65,
       "Speed": 30
     },
-    "Evolution": ["Gloom"]
+    "Evolution": ["Oddish", "Gloom", "Vileplume"]
   },
   {
     "Id": "044",
@@ -877,7 +877,7 @@
       "Sp. Def": 75,
       "Speed": 40
     },
-    "Evolution": ["Vileplume"]
+    "Evolution": ["Oddish", "Gloom", "Vileplume"]
   },
   {
     "Id": "045",
@@ -897,7 +897,7 @@
       "Sp. Def": 90,
       "Speed": 50
     },
-    "Evolution": []
+    "Evolution": ["Oddish", "Gloom", "Vileplume"]
   },
   {
     "Id": "046",
@@ -917,7 +917,7 @@
       "Sp. Def": 55,
       "Speed": 25
     },
-    "Evolution": ["Parasect"]
+    "Evolution": ["Paras", "Parasect"]
   },
   {
     "Id": "047",
@@ -937,7 +937,7 @@
       "Sp. Def": 80,
       "Speed": 30
     },
-    "Evolution": []
+    "Evolution": ["Paras", "Parasect"]
   },
   {
     "Id": "048",
@@ -957,7 +957,7 @@
       "Sp. Def": 55,
       "Speed": 45
     },
-    "Evolution": ["Venomoth"]
+    "Evolution": ["Venonat", "Venomoth"]
   },
   {
     "Id": "049",
@@ -977,7 +977,7 @@
       "Sp. Def": 75,
       "Speed": 90
     },
-    "Evolution": []
+    "Evolution": ["Venonat", "Venomoth"]
   },
   {
     "Id": "050",
@@ -997,7 +997,7 @@
       "Sp. Def": 45,
       "Speed": 95
     },
-    "Evolution": ["Dugtrio"]
+    "Evolution": ["Diglett", "Dugtrio"]
   },
   {
     "Id": "051",
@@ -1017,7 +1017,7 @@
       "Sp. Def": 70,
       "Speed": 120
     },
-    "Evolution": []
+    "Evolution": ["Diglett", "Dugtrio"]
   },
   {
     "Id": "052",
@@ -1037,7 +1037,7 @@
       "Sp. Def": 40,
       "Speed": 90
     },
-    "Evolution": ["Persian"]
+    "Evolution": ["Meowth", "Persian"]
   },
   {
     "Id": "053",
@@ -1057,7 +1057,7 @@
       "Sp. Def": 65,
       "Speed": 115
     },
-    "Evolution": []
+    "Evolution": ["Meowth", "Persian"]
   },
   {
     "Id": "054",
@@ -1077,7 +1077,7 @@
       "Sp. Def": 50,
       "Speed": 55
     },
-    "Evolution": ["Golduck"]
+    "Evolution": ["Psyduck", "Golduck"]
   },
   {
     "Id": "055",
@@ -1097,7 +1097,7 @@
       "Sp. Def": 80,
       "Speed": 85
     },
-    "Evolution": []
+    "Evolution": ["Psyduck", "Golduck"]
   },
   {
     "Id": "056",
@@ -1117,7 +1117,7 @@
       "Sp. Def": 45,
       "Speed": 70
     },
-    "Evolution": ["Primeape"]
+    "Evolution": ["Mankey", "Primeape"]
   },
   {
     "Id": "057",
@@ -1137,7 +1137,7 @@
       "Sp. Def": 70,
       "Speed": 95
     },
-    "Evolution": []
+    "Evolution": ["Mankey", "Primeape"]
   },
   {
     "Id": "058",
@@ -1157,7 +1157,7 @@
       "Sp. Def": 50,
       "Speed": 60
     },
-    "Evolution": ["Arcanine"]
+    "Evolution": ["Growlithe", "Arcanine"]
   },
   {
     "Id": "059",
@@ -1177,7 +1177,7 @@
       "Sp. Def": 80,
       "Speed": 95
     },
-    "Evolution": []
+    "Evolution": ["Growlithe", "Arcanine"]
   },
   {
     "Id": "060",
@@ -1197,7 +1197,7 @@
       "Sp. Def": 40,
       "Speed": 90
     },
-    "Evolution": ["Poliwhirl"]
+    "Evolution": ["Poliwag", "Poliwhirl", "Poliwrath"]
   },
   {
     "Id": "061",
@@ -1217,7 +1217,7 @@
       "Sp. Def": 50,
       "Speed": 90
     },
-    "Evolution": ["Poliwrath"]
+    "Evolution": ["Poliwag", "Poliwhirl", "Poliwrath"]
   },
   {
     "Id": "062",
@@ -1237,7 +1237,7 @@
       "Sp. Def": 90,
       "Speed": 70
     },
-    "Evolution": []
+    "Evolution": ["Poliwag", "Poliwhirl", "Poliwrath"]
   },
   {
     "Id": "063",
@@ -1257,7 +1257,7 @@
       "Sp. Def": 55,
       "Speed": 90
     },
-    "Evolution": ["Kadabra"]
+    "Evolution": ["Abra", "Kadabra", "Alakazam"]
   },
   {
     "Id": "064",
@@ -1277,7 +1277,7 @@
       "Sp. Def": 70,
       "Speed": 105
     },
-    "Evolution": ["Alakazam"]
+    "Evolution": ["Abra", "Kadabra", "Alakazam"]
   },
   {
     "Id": "065",
@@ -1297,7 +1297,7 @@
       "Sp. Def": 95,
       "Speed": 120
     },
-    "Evolution": []
+    "Evolution": ["Abra", "Kadabra", "Alakazam"]
   },
   {
     "Id": "066",
@@ -1317,7 +1317,7 @@
       "Sp. Def": 35,
       "Speed": 35
     },
-    "Evolution": ["Machoke"]
+    "Evolution": ["Machop", "Machoke", "Machamp"]
   },
   {
     "Id": "067",
@@ -1337,7 +1337,7 @@
       "Sp. Def": 60,
       "Speed": 45
     },
-    "Evolution": ["Machamp"]
+    "Evolution": ["Machop", "Machoke", "Machamp"]
   },
   {
     "Id": "068",
@@ -1357,7 +1357,7 @@
       "Sp. Def": 85,
       "Speed": 55
     },
-    "Evolution": []
+    "Evolution": ["Machop", "Machoke", "Machamp"]
   },
   {
     "Id": "069",
@@ -1377,7 +1377,7 @@
       "Sp. Def": 30,
       "Speed": 40
     },
-    "Evolution": ["Weepinbell"]
+    "Evolution": ["Bellsprout", "Weepinbell", "Victreebel"]
   },
   {
     "Id": "070",
@@ -1397,7 +1397,7 @@
       "Sp. Def": 45,
       "Speed": 55
     },
-    "Evolution": ["Victreebel"]
+    "Evolution": ["Bellsprout", "Weepinbell", "Victreebel"]
   },
   {
     "Id": "071",
@@ -1417,7 +1417,7 @@
       "Sp. Def": 70,
       "Speed": 70
     },
-    "Evolution": []
+    "Evolution": ["Bellsprout", "Weepinbell", "Victreebel"]
   },
   {
     "Id": "072",
@@ -1437,7 +1437,7 @@
       "Sp. Def": 100,
       "Speed": 70
     },
-    "Evolution": ["Tentacruel"]
+    "Evolution": ["Tentacool", "Tentacruel"]
   },
   {
     "Id": "073",
@@ -1457,7 +1457,7 @@
       "Sp. Def": 120,
       "Speed": 100
     },
-    "Evolution": []
+    "Evolution": ["Tentacool", "Tentacruel"]
   },
   {
     "Id": "074",
@@ -1477,7 +1477,7 @@
       "Sp. Def": 30,
       "Speed": 20
     },
-    "Evolution": ["Graveler"]
+    "Evolution": ["Geodude", "Graveler", "Golem"]
   },
   {
     "Id": "075",
@@ -1497,7 +1497,7 @@
       "Sp. Def": 45,
       "Speed": 35
     },
-    "Evolution": ["Golem"]
+    "Evolution": ["Geodude", "Graveler", "Golem"]
   },
   {
     "Id": "076",
@@ -1517,7 +1517,7 @@
       "Sp. Def": 65,
       "Speed": 45
     },
-    "Evolution": []
+    "Evolution": ["Geodude", "Graveler", "Golem"]
   },
   {
     "Id": "077",
@@ -1537,7 +1537,7 @@
       "Sp. Def": 65,
       "Speed": 90
     },
-    "Evolution": ["Rapidash"]
+    "Evolution": ["Ponyta", "Rapidash"]
   },
   {
     "Id": "078",
@@ -1557,7 +1557,7 @@
       "Sp. Def": 80,
       "Speed": 105
     },
-    "Evolution": []
+    "Evolution": ["Ponyta", "Rapidash"]
   },
   {
     "Id": "079",
@@ -1577,7 +1577,7 @@
       "Sp. Def": 40,
       "Speed": 15
     },
-    "Evolution": ["Slowbro"]
+    "Evolution": ["Slowpoke", "Slowbro"]
   },
   {
     "Id": "080",
@@ -1597,7 +1597,7 @@
       "Sp. Def": 80,
       "Speed": 30
     },
-    "Evolution": ["Slowking"]
+    "Evolution": ["Slowpoke", "Slowbro"]
   },
   {
     "Id": "081",
@@ -1617,7 +1617,7 @@
       "Sp. Def": 55,
       "Speed": 45
     },
-    "Evolution": ["Magneton"]
+    "Evolution": ["Magnemite", "Magneton"]
   },
   {
     "Id": "082",
@@ -1637,7 +1637,7 @@
       "Sp. Def": 70,
       "Speed": 70
     },
-    "Evolution": ["Magnezone"]
+    "Evolution": ["Magnemite", "Magneton"]
   },
   {
     "Id": "083",
@@ -1677,7 +1677,7 @@
       "Sp. Def": 35,
       "Speed": 75
     },
-    "Evolution": ["Dodrio"]
+    "Evolution": ["Doduo", "Dodrio"]
   },
   {
     "Id": "085",
@@ -1697,7 +1697,7 @@
       "Sp. Def": 60,
       "Speed": 110
     },
-    "Evolution": []
+    "Evolution": ["Doduo", "Dodrio"]
   },
   {
     "Id": "086",
@@ -1717,7 +1717,7 @@
       "Sp. Def": 70,
       "Speed": 45
     },
-    "Evolution": ["Dewgong"]
+    "Evolution": ["Seel", "Dewgong"]
   },
   {
     "Id": "087",
@@ -1737,7 +1737,7 @@
       "Sp. Def": 95,
       "Speed": 70
     },
-    "Evolution": []
+    "Evolution": ["Seel", "Dewgong"]
   },
   {
     "Id": "088",
@@ -1757,7 +1757,7 @@
       "Sp. Def": 50,
       "Speed": 25
     },
-    "Evolution": ["Muk"]
+    "Evolution": ["Grimer", "Muk"]
   },
   {
     "Id": "089",
@@ -1777,7 +1777,7 @@
       "Sp. Def": 100,
       "Speed": 50
     },
-    "Evolution": []
+    "Evolution": ["Grimer", "Muk"]
   },
   {
     "Id": "090",
@@ -1797,7 +1797,7 @@
       "Sp. Def": 25,
       "Speed": 40
     },
-    "Evolution": ["Cloyster"]
+    "Evolution": ["Shellder", "Cloyster"]
   },
   {
     "Id": "091",
@@ -1817,7 +1817,7 @@
       "Sp. Def": 45,
       "Speed": 70
     },
-    "Evolution": []
+    "Evolution": ["Shellder", "Cloyster"]
   },
   {
     "Id": "092",
@@ -1837,7 +1837,7 @@
       "Sp. Def": 35,
       "Speed": 80
     },
-    "Evolution": ["Haunter"]
+    "Evolution": ["Gastly", "Haunter", "Gengar"]
   },
   {
     "Id": "093",
@@ -1857,7 +1857,7 @@
       "Sp. Def": 55,
       "Speed": 95
     },
-    "Evolution": ["Gengar"]
+    "Evolution": ["Gastly", "Haunter", "Gengar"]
   },
   {
     "Id": "094",
@@ -1877,7 +1877,7 @@
       "Sp. Def": 75,
       "Speed": 110
     },
-    "Evolution": []
+    "Evolution": ["Gastly", "Haunter", "Gengar"]
   },
   {
     "Id": "095",
@@ -1897,7 +1897,7 @@
       "Sp. Def": 45,
       "Speed": 70
     },
-    "Evolution": ["Steelix"]
+    "Evolution": []
   },
   {
     "Id": "096",
@@ -1917,7 +1917,7 @@
       "Sp. Def": 90,
       "Speed": 42
     },
-    "Evolution": ["Hypno"]
+    "Evolution": ["Drowzee", "Hypno"]
   },
   {
     "Id": "097",
@@ -1937,7 +1937,7 @@
       "Sp. Def": 115,
       "Speed": 67
     },
-    "Evolution": []
+    "Evolution": ["Drowzee", "Hypno"]
   },
   {
     "Id": "098",
@@ -1957,7 +1957,7 @@
       "Sp. Def": 25,
       "Speed": 50
     },
-    "Evolution": ["Kingler"]
+    "Evolution": ["Krabby", "Kingler"]
   },
   {
     "Id": "099",
@@ -1977,7 +1977,7 @@
       "Sp. Def": 50,
       "Speed": 75
     },
-    "Evolution": []
+    "Evolution": ["Krabby", "Kingler"]
   },
   {
     "Id": "100",
@@ -1997,7 +1997,7 @@
       "Sp. Def": 55,
       "Speed": 100
     },
-    "Evolution": ["Electrode"]
+    "Evolution": ["Voltorb", "Electrode"]
   },
   {
     "Id": "101",
@@ -2017,7 +2017,7 @@
       "Sp. Def": 80,
       "Speed": 150
     },
-    "Evolution": []
+    "Evolution": ["Voltorb", "Electrode"]
   },
   {
     "Id": "102",
@@ -2037,7 +2037,7 @@
       "Sp. Def": 45,
       "Speed": 40
     },
-    "Evolution": ["Exeggutor"]
+    "Evolution": ["Exeggcute", "Exeggutor"]
   },
   {
     "Id": "103",
@@ -2057,7 +2057,7 @@
       "Sp. Def": 65,
       "Speed": 55
     },
-    "Evolution": []
+    "Evolution": ["Exeggcute", "Exeggutor"]
   },
   {
     "Id": "104",
@@ -2077,7 +2077,7 @@
       "Sp. Def": 50,
       "Speed": 35
     },
-    "Evolution": ["Marowak"]
+    "Evolution": ["Cubone", "Marowak"]
   },
   {
     "Id": "105",
@@ -2097,7 +2097,7 @@
       "Sp. Def": 80,
       "Speed": 45
     },
-    "Evolution": []
+    "Evolution": ["Cubone", "Marowak"]
   },
   {
     "Id": "106",
@@ -2157,7 +2157,7 @@
       "Sp. Def": 75,
       "Speed": 30
     },
-    "Evolution": ["Lickilicky"]
+    "Evolution": []
   },
   {
     "Id": "109",
@@ -2177,7 +2177,7 @@
       "Sp. Def": 45,
       "Speed": 35
     },
-    "Evolution": ["Weezing"]
+    "Evolution": ["Koffing", "Weezing"]
   },
   {
     "Id": "110",
@@ -2197,7 +2197,7 @@
       "Sp. Def": 70,
       "Speed": 60
     },
-    "Evolution": []
+    "Evolution": ["Koffing", "Weezing"]
   },
   {
     "Id": "111",
@@ -2217,7 +2217,7 @@
       "Sp. Def": 30,
       "Speed": 25
     },
-    "Evolution": ["Rhydon"]
+    "Evolution": ["Rhyhorn", "Rhydon"]
   },
   {
     "Id": "112",
@@ -2237,7 +2237,7 @@
       "Sp. Def": 45,
       "Speed": 40
     },
-    "Evolution": []
+    "Evolution": ["Rhyhorn", "Rhydon"]
   },
   {
     "Id": "113",
@@ -2257,7 +2257,7 @@
       "Sp. Def": 105,
       "Speed": 50
     },
-    "Evolution": ["Blissey"]
+    "Evolution": []
   },
   {
     "Id": "114",
@@ -2277,7 +2277,7 @@
       "Sp. Def": 40,
       "Speed": 60
     },
-    "Evolution": ["Tangrowth"]
+    "Evolution": []
   },
   {
     "Id": "115",
@@ -2317,7 +2317,7 @@
       "Sp. Def": 25,
       "Speed": 60
     },
-    "Evolution": ["Seadra"]
+    "Evolution": ["Horsea", "Seadra"]
   },
   {
     "Id": "117",
@@ -2337,7 +2337,7 @@
       "Sp. Def": 45,
       "Speed": 85
     },
-    "Evolution": ["Kingdra"]
+    "Evolution": ["Horsea", "Seadra"]
   },
   {
     "Id": "118",
@@ -2357,7 +2357,7 @@
       "Sp. Def": 50,
       "Speed": 63
     },
-    "Evolution": ["Seaking"]
+    "Evolution": ["Goldeen", "Seaking"]
   },
   {
     "Id": "119",
@@ -2377,7 +2377,7 @@
       "Sp. Def": 80,
       "Speed": 68
     },
-    "Evolution": []
+    "Evolution": ["Goldeen", "Seaking"]
   },
   {
     "Id": "120",
@@ -2397,7 +2397,7 @@
       "Sp. Def": 55,
       "Speed": 85
     },
-    "Evolution": ["Starmie"]
+    "Evolution": ["Staryu", "Starmie"]
   },
   {
     "Id": "121",
@@ -2417,7 +2417,7 @@
       "Sp. Def": 85,
       "Speed": 115
     },
-    "Evolution": []
+    "Evolution": ["Staryu", "Starmie"]
   },
   {
     "Id": "122",
@@ -2457,7 +2457,7 @@
       "Sp. Def": 80,
       "Speed": 105
     },
-    "Evolution": ["Scizor"]
+    "Evolution": []
   },
   {
     "Id": "124",
@@ -2577,7 +2577,7 @@
       "Sp. Def": 20,
       "Speed": 80
     },
-    "Evolution": ["Gyarados"]
+    "Evolution": ["Magikarp", "Gyarados"]
   },
   {
     "Id": "130",
@@ -2597,7 +2597,7 @@
       "Sp. Def": 100,
       "Speed": 81
     },
-    "Evolution": []
+    "Evolution": ["Magikarp", "Gyarados"]
   },
   {
     "Id": "131",
@@ -2657,7 +2657,7 @@
       "Sp. Def": 65,
       "Speed": 55
     },
-    "Evolution": ["Vaporeon", "Jolteon", "Flareon", "Espeon", "Umbreon", "Leafeon", "Glaceon", "Sylveon"]
+    "Evolution": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
   },
   {
     "Id": "134",
@@ -2677,7 +2677,7 @@
       "Sp. Def": 95,
       "Speed": 65
     },
-    "Evolution": []
+    "Evolution": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
   },
   {
     "Id": "135",
@@ -2697,7 +2697,7 @@
       "Sp. Def": 95,
       "Speed": 130
     },
-    "Evolution": []
+    "Evolution": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
   },
   {
     "Id": "136",
@@ -2717,7 +2717,7 @@
       "Sp. Def": 110,
       "Speed": 65
     },
-    "Evolution": []
+    "Evolution": ["Eevee", "Vaporeon", "Jolteon", "Flareon"]
   },
   {
     "Id": "137",
@@ -2737,7 +2737,7 @@
       "Sp. Def": 75,
       "Speed": 40
     },
-    "Evolution": ["Porygon2"]
+    "Evolution": []
   },
   {
     "Id": "138",
@@ -2757,7 +2757,7 @@
       "Sp. Def": 55,
       "Speed": 35
     },
-    "Evolution": ["Omastar"]
+    "Evolution": ["Omanyte", "Omastar"]
   },
   {
     "Id": "139",
@@ -2777,7 +2777,7 @@
       "Sp. Def": 70,
       "Speed": 55
     },
-    "Evolution": []
+    "Evolution": ["Omanyte", "Omastar"]
   },
   {
     "Id": "140",
@@ -2797,7 +2797,7 @@
       "Sp. Def": 45,
       "Speed": 55
     },
-    "Evolution": ["Kabutops"]
+    "Evolution": ["Kabuto", "Kabutops"]
   },
   {
     "Id": "141",
@@ -2817,7 +2817,7 @@
       "Sp. Def": 70,
       "Speed": 80
     },
-    "Evolution": []
+    "Evolution": ["Kabuto", "Kabutops"]
   },
   {
     "Id": "142",
@@ -2937,7 +2937,7 @@
       "Sp. Def": 50,
       "Speed": 50
     },
-    "Evolution": ["Dragonair"]
+    "Evolution": ["Dratini", "Dragonair", "Dragonite"]
   },
   {
     "Id": "148",
@@ -2957,7 +2957,7 @@
       "Sp. Def": 70,
       "Speed": 70
     },
-    "Evolution": ["Dragonite"]
+    "Evolution": ["Dratini", "Dragonair", "Dragonite"]
   },
   {
     "Id": "149",
@@ -2977,7 +2977,7 @@
       "Sp. Def": 100,
       "Speed": 80
     },
-    "Evolution": []
+    "Evolution": ["Dratini", "Dragonair", "Dragonite"]
   },
   {
     "Id": "150",
@@ -2997,7 +2997,7 @@
       "Sp. Def": 90,
       "Speed": 130
     },
-    "Evolution": ["Mega Mewtwo X", "Mega Mewtwo Y"]
+    "Evolution": []
   },
   {
     "Id": "151",

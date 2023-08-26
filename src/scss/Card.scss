@@ -1,10 +1,6 @@
 .pokemonCard {
     min-height: 11rem;
 
-    h2 {
-        font-size: 1.2rem;
-    }
-
     &::before {
         content: "";
         width: 100%;
@@ -15,7 +11,6 @@
         background-size: contain;
         background-position: center;
         right: -30%;
-        // bottom: -10%;
         bottom: -20%;
         opacity: .2;
     }
@@ -33,23 +28,13 @@
     }
 
     img {
-        // width: 40%;
-        width: 60%;
+        width: 40%;
         right: 0;
         bottom: 0;
         z-index: -1;
-    }
 
-    /*
-
-    @media (min-width: 576px) {
-        &::before {
-            bottom: -20%;
-        }
-
-        img {
-            width: 60%;
+        &.img-carousel {
+            width: 50%;
         }
     }
-    */
 }
